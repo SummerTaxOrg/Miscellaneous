@@ -1,11 +1,11 @@
 <!--
   LEGISLATIVE ONE-PAGER / LEAVE-BEHIND. Designed to fit a single printed page.
   Bill number, coalition name, sponsor, and contact are PLACEHOLDERS in [brackets];
-  replace and verify before distribution. The Suffolk County cost figures are
-  research-based estimates derived from NAHB 2024 and 2025 Massachusetts builder
-  cost data (full sourcing in ONEPAGER/research/03-cost-figures.md); confirm against
-  the latest data before citing. Advocacy material, not legal advice; the candid
-  legal posture is in MA-owner-builder-sales-tax-constitutional-memo.md.
+  replace and verify before distribution. The cost figure is anchored on a single
+  reputable source, the NAHB 2024 Cost of Constructing a Home survey (full sourcing
+  and the materials-share derivation in ONEPAGER/research/03-cost-figures.md);
+  confirm against the latest data before citing. Advocacy material, not legal
+  advice; the candid legal posture is in MA-owner-builder-sales-tax-constitutional-memo.md.
 
   Revision note: prose deliberately uses measured, fully-weighted sentences rather
   than clipped fragments, and contains no em-dashes, so it reads as considered
@@ -35,9 +35,9 @@ In 2026 this Legislature exempted from this very tax an estimated thirty-five mi
 
 > The developer's materials now arrive untaxed while the family's do not, a distinction that rewards the enterprise built to sell and penalizes the household built to stay.
 
-**WHAT THE TAX COSTS A FAMILY IN SUFFOLK COUNTY**
+**WHAT THE TAX COSTS A FAMILY**
 
-A new single-family home in Suffolk County carries among the highest construction costs in the nation. At Greater Boston rates near **$300 to $350 per square foot**, a home of about average size, near 2,400 square feet, runs on the order of **$780,000** to build before land. Materials are roughly **40 to 50 percent** of that, some **$310,000 to $390,000**, on which the Commonwealth collects an estimated **$19,000 to $24,000** in sales and use tax, before the contractor markup above carries the family's share higher still.
+By the National Association of Home Builders' 2024 *Cost of Constructing a Home* survey, the average new single-family home costs about **$428,000** to build. Materials make up roughly 40 percent of a home's construction cost, so the 6.25 percent sales and use tax falls on some **$170,000** of materials, about **$10,700** a home, before a single light is switched on. In Greater Boston, where building costs run well above the national average, the family's bill is materially higher, and the contractor markup described above lifts it further.
 
 **THE REMEDY**
 

@@ -46,12 +46,17 @@ ONEPAGER/
 ## Caveats
 
 - **Placeholders to fill and verify.** Bill number, sponsor, coalition name, and contact line
-  are bracketed. The dollar figures are now **research-based estimates** for a Suffolk County
-  single-family home (NAHB 2024 plus 2025 Massachusetts builder data; see
-  [`research/03`](research/03-cost-figures.md)); confirm against the latest data before citing.
-- **A dense single page.** After the review additions (the compounding-markup point, the
-  Suffolk County cost block, and the closing "Choice" section), the text runs to roughly 900
-  words. It still fits one page in a compact layout; set the two block quotes as a smaller
-  sidebar, and if a logo/letterhead crowds the page, tighten the "What the Tax Costs" block first.
+  are bracketed. The dollar figure is anchored on a **single reputable source** (NAHB 2024
+  *Cost of Constructing a Home*, ~$428k build cost) with a conservative ~40% materials share
+  as the one derived input; see [`research/03`](research/03-cost-figures.md). Confirm against
+  the latest survey before citing, and label the materials share as derived wherever quoted.
+- **Length has outgrown one page.** Successive review rounds added substance (the
+  compounding-markup explanation, the visibility reframe, the administrability rebuttal, the
+  exemption-mechanism detail, the cost figure, and the closing "Choice" section plus two
+  founder quotations). The text now runs ~1,000 words, roughly 1.25–1.5 pages at normal
+  formatting. Two honest choices before distribution: (a) **hold one page** by trimming —
+  drop one founder quotation, fold the cost block into a single sentence, and tighten the
+  problem bullets; or (b) **let it become a tight two-page brief**, which the added content
+  arguably now warrants. Flagging rather than silently cutting requested material.
 - **Advocacy, not advice.** Like its companions, it argues the cause at its most persuasive;
   the memo remains the candid assessment of the legal odds.

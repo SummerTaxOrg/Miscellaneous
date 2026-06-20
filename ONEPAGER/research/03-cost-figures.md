@@ -1,71 +1,80 @@
-# 03 — Cost Figures: The Suffolk County Estimate
+# 03 — Cost Figures: The NAHB Single-Source Estimate
 
-This note documents the sourcing and arithmetic behind the "What the Tax Costs a Family in
-Suffolk County" block of [`/ONE-PAGER.md`](../../ONE-PAGER.md), added in response to a PR
-review comment asking for researched material costs for a recent single-family home in
-Suffolk County, Massachusetts.
+This note documents the sourcing and arithmetic behind the "What the Tax Costs a Family"
+block of [`/ONE-PAGER.md`](../../ONE-PAGER.md). It was revised in response to a PR review
+comment directing that the calculation rest on a **single reputable, quotable source** that
+provides both the total build cost and the materials portion, rather than a figure stitched
+together from several cost-guide websites.
 
-## I. The honest caveat first
+## I. The source
 
-There is **no single authoritative figure** for "the materials cost of a new single-family
-home in Suffolk County." County-level new-construction cost data is not published at that
-granularity. The figure on the one-pager is therefore a **transparent estimate built from
-three reputable, current inputs**: (1) Greater Boston cost-to-build per square foot, (2) the
-average size of a new single-family home, and (3) the materials share of construction cost
-from the national homebuilders' association survey. Each input and the arithmetic are shown
-below so the number can be defended, challenged, or refined.
+**National Association of Home Builders (NAHB), *Cost of Constructing a Home — 2024*** (Jan.
+2025). The NAHB cost-of-construction survey is the homebuilding industry's standard annual
+study and is the most reputable, widely quoted source for what it costs to build a new
+single-family home in the United States. It is the single anchor for the figure on the page.
 
-## II. The inputs
+Per that survey:
+- Average cost to **build** a new single-family home: **$428,215** (2024) — the highest in
+  the survey's history (begun 1998).
+- Average size: **2,647 sq ft**, or about **$162/sq ft** of finished floor area.
+- Construction cost is **64.4%** of the average new-home sale price; the finished lot is the
+  next-largest component at 13.7%.
 
-| Input | Value used | Source |
-|---|---|---|
-| Cost to build, Greater Boston | **$300–$350 / sq ft** (builder-grade; custom runs higher) | 2025 Massachusetts/Boston builder cost surveys (Houzeo, HomeGuide, Angi) |
-| Average new single-family home size | **~2,400 sq ft** (U.S. average 2024; median 2,210) | U.S. Census / NAHB, via Eye on Housing (2025) |
-| Total construction cost (derived) | **~$720,000–$840,000**, rounded to **~$780,000** | 2,400 sq ft × $300–$350 |
-| Materials share of construction cost | **~40–50%** | NAHB *Cost of Constructing a Home, 2024* and related analyses |
-| **Taxable materials (derived)** | **~$310,000–$390,000** | $780,000 × 40–50% |
-| MA sales/use tax rate | **6.25%** | G.L. c. 64H/64I |
-| **Tax on materials (derived)** | **~$19,000–$24,000** | $310,000–$390,000 × 6.25% |
+## II. The materials share (the one derived input)
 
-## III. National anchor for sanity-checking
+The NAHB survey reports total construction cost and breaks it into eight construction
+**stages** (interior finishes ~24%, system rough-ins ~19%, framing ~17%, exterior finishes
+~13%, and so on). It does **not** publish a single "materials vs. labor" percentage. The
+materials share is therefore the **one derived input** in the calculation, and the page and
+this note are transparent about that.
 
-The NAHB *Cost of Constructing a Home, 2024* survey puts the average **national** construction
-cost (excluding land) at about **$428,000**, roughly **$162/sq ft**. Greater Boston builds at
-roughly **two times** the national per-square-foot rate, which is why the Suffolk County total
-lands near $780,000 rather than the national average. The materials-tax figure scales with it:
-at the national average build, materials of ~40–50% imply ~$170,000–$215,000 in materials and
-~$10,700–$13,400 in tax; Suffolk County's higher costs roughly double that. This cross-check
-confirms the Suffolk County estimate is the right order of magnitude, not an outlier.
+- **Figure used: ~40% of construction cost is materials.** This is the conservative end of
+  the commonly cited 40–50% materials-to-construction-cost range, and it is consistent with
+  NAHB's own commentary that recent cost growth has been driven as much by **labor** as by
+  materials (i.e., materials are not the majority of the cost). Choosing the low end keeps
+  the per-home figure defensible rather than inflated.
 
-## IV. The compounding markup (paired review comment)
+## III. The arithmetic (all from the single anchor)
 
-A second review comment asked the page to reflect that the contractor's **markup compounds**
-the tax. The mechanism, stated precisely:
+| Step | Value |
+|---|---|
+| Average cost to build (NAHB 2024) | **$428,215** |
+| Materials share (conservative, ~40%) | ~**$171,000** |
+| Massachusetts sales/use tax rate | **6.25%** |
+| **Tax on materials** | ~**$10,700** per home |
 
-- Under the contractor-as-consumer rule, the builder pays the 6.25% tax on the materials he
-  buys, so the **tax is embedded in his materials cost**.
-- A builder prices materials to the owner at **cost plus margin**. Applying the margin to a
-  tax-inclusive cost means the **margin is charged on the tax too**.
-- Effective tax borne by the owner ≈ **6.25% × (1 + margin)**. At a 20% margin, that is about
-  **7.5%**; at a 30% margin, about **8.1%**. The wider the margin, the wider the gap between
-  the statutory 6.25% and what the family actually pays.
+At a 50% materials share the tax would be ~$13,400; the page uses the ~40%/$10,700 figure as
+the conservative statement.
 
-This is presented on the one-pager qualitatively (with the 20% example) rather than as a
-second dollar line, to avoid stacking estimates on estimates; the arithmetic is recorded here.
+## IV. The Greater Boston note (kept qualitative, to preserve the single source)
 
-## V. Before distribution
+The NAHB figure is **national**. Massachusetts and Greater Boston build costs run well above
+the national average (commonly reported around $300+/sq ft versus NAHB's ~$162/sq ft, i.e.,
+roughly double), so the real Suffolk County number is **materially higher** than $10,700. To
+keep the calculation anchored to one quotable source, the page states this **qualitatively**
+("in Greater Boston ... the family's bill is materially higher") rather than multiplying in a
+second source's per-square-foot figure. If a local figure is wanted, cite a single Greater
+Boston construction-cost source for both inputs and redo the arithmetic from that one source.
 
-- Replace the derived range with a **specific, defensible figure** if the coalition can obtain
-  actual Suffolk County builder data, or keep the range and cite these sources in a footnote.
-- Re-pull the cost-per-square-foot and materials-share inputs for the **most recent** year
-  available at the time of use; construction costs have moved sharply since 2022.
-- If a fiscal note for the bill becomes available, cite the **statewide** revenue figure
-  alongside the per-home figure for completeness.
+## V. The compounding markup (paired point)
+
+Separately from the build-cost figure, the page notes that the contractor's markup compounds
+the tax: because a builder prices materials at cost plus margin and the tax is embedded in
+that cost, the owner effectively pays **6.25% × (1 + margin)** — about **7.5%** at a 20%
+markup, more at a wider one. This is an arithmetic identity, not a sourced statistic.
+
+## VI. Before distribution
+
+- Re-pull the NAHB figure for the **most recent** survey year available at the time of use.
+- If the coalition prefers a **Greater Boston-specific** number, identify one reputable
+  source that gives both the local total build cost and a materials share, and redo §III from
+  that single source (replacing the national NAHB anchor).
+- State the materials share as **derived** wherever the figure is quoted, so the one
+  estimated input is never mistaken for a published NAHB statistic.
 
 ---
 
 ### Sources consulted
 
-- NAHB, *Cost of Constructing a Home — 2024* (avg. ~$428,215 total, ~$162/sq ft; construction = 64.4% of price) — [NAHB](https://www.nahb.org/news-and-economics/housing-economics-plus/special-studies/special-studies-pages/cost-of-constructing-a-home-in-2024); [Eye on Housing](https://eyeonhousing.org/2025/01/cost-of-constructing-a-home-in-2024/); [NAHB blog](https://www.nahb.org/blog/2025/01/cost-of-construction-survey-2024)
-- Greater Boston / Massachusetts cost to build per square foot, 2025 — [Houzeo (Boston)](https://www.houzeo.com/blog/how-much-does-it-cost-to-build-a-house-boston-ma/); [Houzeo (MA)](https://www.houzeo.com/blog/how-much-does-it-cost-to-build-a-house-massachusetts/); [HomeGuide](https://homeguide.com/costs/cost-to-build-a-house-in-massachusetts); [Angi (Boston)](https://www.angi.com/articles/how-much-does-it-cost-build-house/ma/boston)
-- Average/median size of new single-family homes, 2024 — [Eye on Housing](https://eyeonhousing.org/2025/05/single-family-home-size-trending-higher/); [U.S. Census construction characteristics](https://www.census.gov/construction/chars/highlights.html)
+- NAHB, *Cost of Constructing a Home — 2024* (avg. build cost $428,215; ~$162/sq ft; 2,647 sq ft; construction = 64.4% of price; eight-stage breakdown) — [NAHB special study](https://www.nahb.org/news-and-economics/housing-economics-plus/special-studies/special-studies-pages/cost-of-constructing-a-home-in-2024); [NAHB blog](https://www.nahb.org/blog/2025/01/cost-of-construction-survey-2024); [Eye on Housing](https://eyeonhousing.org/2025/01/cost-of-constructing-a-home-in-2024/)
+- Greater Boston / Massachusetts build cost running well above the national average (used only for the qualitative "materially higher" note) — [Houzeo (Boston)](https://www.houzeo.com/blog/how-much-does-it-cost-to-build-a-house-boston-ma/); [HomeGuide (MA)](https://homeguide.com/costs/cost-to-build-a-house-in-massachusetts)

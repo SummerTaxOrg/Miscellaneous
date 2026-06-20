@@ -63,12 +63,13 @@ Force without credibility gets discarded. The page is disciplined in four matchi
 - **The ask is narrow and already-modeled**, not sweeping: natural persons, primary
   residence only, expressly not developers or resale — parallel to exemptions already in
   G.L. c. 64H, § 6. A modest, bounded ask is easier to say yes to and harder to caricature.
-- **The dollar figures are sourced and shown as a range.** In response to review, the page
-  now carries a researched Suffolk County estimate built from named inputs (Greater Boston
-  cost per square foot, average home size, the NAHB materials share), presented as a range
-  rather than a false-precision single number, with the full arithmetic and sources in
-  [`research/03`](03-cost-figures.md). Showing the work, and its limits, protects the
-  document's trustworthiness.
+- **The dollar figure is anchored on one reputable source.** In response to review, the page
+  rests the calculation on a single authoritative source, the NAHB 2024 *Cost of Constructing
+  a Home* survey ($428,000 average build cost), with a conservative ~40% materials share as
+  the one transparently-derived input, and the Greater Boston premium stated qualitatively to
+  avoid stitching in a second source. Full arithmetic, sourcing, and the derivation are in
+  [`research/03`](03-cost-figures.md). One quotable anchor, with the one estimate labeled,
+  protects the document's trustworthiness.
 - **It concedes nothing it cannot support and overclaims nothing.** It does not predict the
   lawsuit will win or call the tax "unconstitutional" as a settled fact; it frames the
   remedy as legislative ("finish the job") and lets the constitutional quote do persuasive,
@@ -86,9 +87,9 @@ Force without credibility gets discarded. The page is disciplined in four matchi
 - **"the family pays a markup on the tax itself ... roughly 7.5 percent at a 20 percent
   margin"** ← added per PR review; the compounding mechanism (effective rate ≈ 6.25% ×
   (1 + margin)) is worked out in [`research/03`](03-cost-figures.md) § IV.
-- **"a home ... runs on the order of $780,000 ... an estimated $19,000 to $24,000 in sales
-  and use tax"** ← added per PR review; the Suffolk County estimate, inputs and sources in
-  [`research/03`](03-cost-figures.md).
+- **"the average new single-family home costs about $428,000 to build ... about $10,700 a
+  home"** ← NAHB 2024 *Cost of Constructing a Home* (single-source anchor) with a conservative
+  ~40% materials share; full derivation and sources in [`research/03`](03-cost-figures.md).
 - **"$35 million a year … multifamily"** ← memo Part 1.D (the 2026 exemption); the spine of
   the double-standard argument, as in the amicus brief.
 - **"owner-occupant exemption to G.L. c. 64H, § 6 … not developers, speculators, or

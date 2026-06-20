@@ -25,8 +25,8 @@ THE PROBLEM              3 weighted bullets: the tax, whom it hits, and how the
                          contractor's markup compounds it (6.25% × (1 + margin))
 A CONTRADICTION          the strongest point (the 2026 exemption), with a pull-quote
    ...ALREADY HALF-RESOLVED
-WHAT THE TAX COSTS       the researched Suffolk County estimate (see research/03)
-   A FAMILY IN SUFFOLK CO.
+WHAT THE TAX COSTS       the NAHB-anchored single-source estimate (see research/03)
+   A FAMILY
 THE REMEDY               what the Act does; narrow scope; fiscal framing
 THE PRINCIPLE AT STAKE   the representation-answering framing + two property quotes
                          (S. Adams 1772; J. Adams 1787). See research/02 § I.a.
