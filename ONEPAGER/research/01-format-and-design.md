@@ -18,16 +18,18 @@ is built to, drawn from advocacy and government-relations guidance on one-pagers
 ## II. The section order used
 
 ```
-TITLE BANNER          — a short, arresting name ("TAXED AT THE THRESHOLD")
-TAGLINE               — one line stating the whole argument
-THE ASK  (boxed)      — the specific legislative request + bill cite
-THE PROBLEM           — 3 bullets: what the tax is and whom it hits
-THE DOUBLE STANDARD   — the strongest point, with a pull-quote
-WHAT IT COSTS A FAMILY— one illustrative number (flagged)
-THE FIX               — what the bill does; narrow scope; fiscal framing
-WHY NOW               — the timeliness / political hook
-CONSTITUTIONAL QUOTE  — the Art. 23 / Adams pull-quote (authority + resonance)
-FOOTER                — endorsers, sponsor, contact, date, caveat line
+TITLE BANNER             a short, arresting name ("TAXED AT THE THRESHOLD")
+TAGLINE                  the whole argument in measured sentences
+THE ASK  (boxed)         the specific legislative request + bill cite
+THE PROBLEM              4 bullets, each a full weighted sentence: what the tax is and whom it hits
+A CONTRADICTION          the strongest point (the 2026 exemption), with a pull-quote
+   ...ALREADY HALF-RESOLVED
+WHAT THE TAX COSTS       one illustrative number (flagged)
+   A FAMILY
+THE REMEDY               what the bill does; narrow scope; fiscal framing
+WHY THIS SESSION         the timeliness / political hook
+CONSTITUTIONAL QUOTE     the Art. 23 / Adams pull-quote (authority + resonance)
+FOOTER                   endorsers, sponsor, contact, date, caveat line
 ```
 
 ## III. Presentation and typography (for the rendered/printed version)
@@ -43,11 +45,27 @@ final document (Word, Google Docs, or a designed PDF):
   quotation) set larger or indented, to break the page and carry the emotional beats.
 - **Restraint with color and none with emoji.** A single accent color for headers and the
   ask-box border is enough; avoid emoji and clip-art, which read as unserious to a
-  legislative audience. The lone `▶` marker on "THE ASK" is the only ornament.
+  legislative audience. The page carries no ornament at all.
 - **White space is a feature**, not wasted room — it is what makes the page feel like a
   ninety-second read rather than a wall.
 - **Letterhead.** Add the coalition's logo/letterhead at the top; if it crowds the page,
   drop the "What It Costs" or "Why Now" block first.
+
+## III.a Prose register (revision pass)
+
+A one-pager is scannable, but "scannable" is a matter of *layout* (headers, bullets, white
+space), not of clipped prose. An earlier draft mistook the two and leaned on sentence
+fragments for emphasis ("Same lumber. Same nails. Same delivery trucks.") and on em-dashes
+as all-purpose connectors. Both are tells of machine copy and both were removed. The rule
+now observed:
+
+- **Every bullet is a complete, deliberately weighted sentence**, built so that its force
+  comes from word choice and structure rather than from staccato length. A bullet may be
+  long; what it may not be is a fragment.
+- **No em-dashes.** Connections are carried by commas, semicolons, and full stops, which
+  read as considered rather than dashed-off.
+- **The pull-quotes are single, balanced sentences**, not paired one-liners, so they land as
+  an argument a reader can carry rather than as a slogan.
 
 ## IV. Distribution note
 

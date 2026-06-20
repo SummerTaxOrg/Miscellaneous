@@ -16,12 +16,13 @@ moves:
    can bear it — you simply drew the line to include developers and exclude families. That
    reframes the ask from "please grant a new favor" to "finish what you started and fix an
    unfairness you created." That is a far harder thing for a legislator to wave off.
-2. **Plain, declarative headers.** "YOU ALREADY FIXED HALF OF IT." "THE FIX — NARROW,
-   TARGETED, ALREADY-MODELED." The headers carry the argument even to a reader who only
-   skims them.
-3. **A confrontational pull-quote.** "A developer's materials now come tax-free. A family
-   building its own home still pays." One sentence, set off on the page, that a staffer will
-   remember and repeat.
+2. **Declarative headers that carry the argument.** "A CONTRADICTION THE LEGISLATURE HAS
+   ALREADY HALF-RESOLVED." "THE REMEDY." A reader who skims only the headers still receives
+   the case.
+3. **A confrontational pull-quote.** "The developer's materials now arrive untaxed while the
+   family's do not, a distinction that rewards the enterprise built to sell and penalizes the
+   household built to stay." A single balanced sentence, set off on the page, that a staffer
+   will remember and repeat.
 4. **Moral authority, compressed.** A single Article 23 pull-quote, attributed to John Adams,
    supplies the patriotic backbone the other pieces develop at length — here reduced to one
    line that lends the ask gravity without slowing the page.
@@ -63,5 +64,11 @@ Force without credibility gets discarded. The page is disciplined in four matchi
 Per the lesson of the op-ed revision, this page is written **not** to echo the recurring
 images of the speech, brief, and op-ed. It avoids "shelter itself, taken apart," "the bones
 of a house," "the small coin of a thousand receipts," and the "last fortress" maxim. Its own
-signature line — the developer-versus-family pull-quote — is unique to this document. Each
+signature line, the developer-versus-family pull-quote, is unique to this document. Each
 piece in the project should land its own phrase, not recycle a house style.
+
+A second revision then addressed the prose itself: the page was rewritten to replace clipped
+fragments and em-dashes with measured, fully-weighted sentences, on the principle that
+forceful advocacy reads as carefully chosen language, not as terse machine copy. The force
+is meant to live in the precision of each sentence, not in its brevity. See
+`research/01`, § III.a.
