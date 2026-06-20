@@ -28,7 +28,8 @@ WHAT THE TAX COSTS       one illustrative number (flagged)
    A FAMILY
 THE REMEDY               what the bill does; narrow scope; fiscal framing
 WHY THIS SESSION         the timeliness / political hook
-CONSTITUTIONAL QUOTE     the Art. 23 / Adams pull-quote (authority + resonance)
+THE PRINCIPLE AT STAKE   the representation-answering framing + two property quotes
+                         (S. Adams 1772; J. Adams 1787). See research/02 § I.a.
 FOOTER                   endorsers, sponsor, contact, date, caveat line
 ```
 

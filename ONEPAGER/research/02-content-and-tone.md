@@ -23,9 +23,38 @@ moves:
    family's do not, a distinction that rewards the enterprise built to sell and penalizes the
    household built to stay." A single balanced sentence, set off on the page, that a staffer
    will remember and repeat.
-4. **Moral authority, compressed.** A single Article 23 pull-quote, attributed to John Adams,
-   supplies the patriotic backbone the other pieces develop at length — here reduced to one
-   line that lends the ask gravity without slowing the page.
+4. **Moral authority, compressed, and aimed correctly.** Two founding-era quotations supply
+   the patriotic backbone the other pieces develop at length. The choice of *which* founding
+   principle to invoke is deliberate and is itself the answer to the audience (see § I.a).
+
+### I.a Choosing the right founding principle for a legislative reader
+
+An earlier draft closed with Article 23 of the Declaration of Rights, the clause forbidding
+any tax "without the consent of the people, or their representatives in the legislature."
+That quotation is powerful in a courtroom and in the speech and amicus brief, where the
+argument is about the *boundaries* of the tax power. It is actively counterproductive on a
+one-pager, because the reader **is** a representative: the elected member or staffer holding
+the page can answer the consent clause in a sentence ("the people *are* represented, by me,
+so consent is satisfied"). A quotation that hands the reader his own rebuttal should never be
+the closing note.
+
+The revision therefore drops the consent argument and pivots to the **right of property**,
+which a representative cannot dispose of merely by being elected. The two quotations were
+chosen to make a single, escalating point that survives the "but there is representation"
+reply:
+
+- **Samuel Adams (Boston, 1772)** fixes property among the first natural rights, alongside
+  life and liberty, so the reader cannot treat it as a mere policy preference.
+- **John Adams (1787)** supplies the consequence: a society that stops treating property as
+  sacred, and fails to protect it by "law and public justice," is where "anarchy and tyranny
+  commence." Taxing the materials of a family's own home is offered as exactly such a failure
+  to hold a citizen's most basic property sacred.
+
+The connecting sentence on the page states the pivot outright: "Representation establishes
+that the people may be taxed. It has never established that everything they own may be
+taxed." That reframes the legislator from defendant ("you taxed us without consent") into
+trustee ("you hold the power, and the right of property is its limit"), which is the posture
+in which a legislator can actually act.
 
 ## II. Why it stays credible
 
@@ -56,8 +85,11 @@ Force without credibility gets discarded. The page is disciplined in four matchi
   the double-standard argument, as in the amicus brief.
 - **"owner-occupant exemption to G.L. c. 64H, § 6 … not developers, speculators, or
   resale"** ← the exemption structure and owner-builder profile (memo Parts 1.C, 1.B, 3.B).
-- **Article 23 quotation, "drafted by John Adams, 1780"** ← the historical research behind
-  the speech and brief (SPEECH/research/01; AMICUS/research/03).
+- **Samuel Adams, *The Rights of the Colonists* (Boston, 1772), and John Adams, *A Defence
+  of the Constitutions* (1787)** ← founding-era statements of property as a natural right and
+  of property's erosion as the onset of tyranny; both verified against primary-source
+  references. Chosen over the Article 23 consent clause for the reasons in § I.a. The
+  broader historical research is in SPEECH/research/01 and AMICUS/research/03.
 
 ## IV. Distinct voice from the sibling pieces
 

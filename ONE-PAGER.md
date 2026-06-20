@@ -26,12 +26,12 @@
 
 - The Commonwealth imposes its full 6.25 percent sales tax on the lumber, windows, wiring, and fixtures a family must buy to build the house it means to live in, and it imposes the same rate as a use tax on any of those materials ordered from beyond its borders.
 - The burden settles most heavily on the residents who undertake the work themselves, who pay the tax directly and in full, atop the separate costs of their land, their labor, and their financing.
-- Where a family hires the work out instead, the Department's own contractor-as-consumer rule names that builder the taxable consumer of every material installed, with the result that the same tax is paid and then passed, in full, into the price the family is charged.
+- Where a family hires the work out instead, the Department's own contractor-as-consumer rule names that builder the taxable consumer of every material installed, so the same tax is paid and then passed, in full, into the price the family is charged.
 - What the statute reaches here is not ornament or indulgence but the structural substance of shelter, without which no house can stand.
 
 **A CONTRADICTION THE LEGISLATURE HAS ALREADY HALF-RESOLVED**
 
-In 2026 this Legislature exempted from this very tax an estimated thirty-five million dollars each year in building materials destined for qualifying multifamily developments. The lumber is the same, the wiring is the same, and the trucks that carry them to the site are the same. The Commonwealth has therefore already conceded both that these materials may be relieved of the tax and that its budget can bear the cost of relieving them; the single judgment it has withheld is that a family building the house it will live in deserves the consideration it has already granted the developer building to sell.
+In 2026 this Legislature exempted from this very tax an estimated thirty-five million dollars each year in building materials destined for qualifying multifamily developments. The lumber, the wiring, and the delivery trucks are the same. The Commonwealth has therefore already conceded both that these materials may be relieved of the tax and that its budget can bear the cost; the only judgment it has withheld is that a family building the house it will live in deserves the consideration already granted the developer who builds to sell.
 
 > The developer's materials now arrive untaxed while the family's do not, a distinction that rewards the enterprise built to sell and penalizes the household built to stay.
 
@@ -45,10 +45,17 @@ The bill adds a narrowly drawn owner-occupant exemption to G.L. c. 64H, § 6, mo
 
 **WHY THIS SESSION**
 
-No concern holds the attention of Massachusetts residents more steadily than the cost of a place to live. This measure answers that concern at its foundation, it honors the families and the tradespeople who do the building, and it closes a distinction that asks the homeowner to keep paying what the developer no longer does.
+No concern holds the attention of Massachusetts residents more steadily than the cost of a place to live. This measure lowers that cost at its foundation, rewards the families and tradespeople who do the building, and ends a distinction that taxes the homeowner while sparing the developer.
 
-> *"No subsidy, charge, tax, impost, or duties, ought to be ... levied ... without the consent of the people, or their representatives in the legislature."*
-> Massachusetts Declaration of Rights, Article 23, drafted by John Adams in 1780.
+**THE PRINCIPLE AT STAKE**
+
+Representation establishes that the people may be taxed. It has never established that everything they own may be taxed. The right of property is the boundary the taxing power must respect, and the materials of the home a family builds for itself fall on the protected side of it. The founders of this Commonwealth drew that distinction plainly:
+
+> *"Among the natural rights of the Colonists are these: First, a right to life. Secondly, to liberty. Thirdly, to property; together with the right to support and defend them in the best manner they can."*
+> Samuel Adams, *The Rights of the Colonists*, Boston, 1772.
+
+> *"The moment the idea is admitted into society that property is not as sacred as the laws of God, and that there is not a force of law and public justice to protect it, anarchy and tyranny commence."*
+> John Adams, *A Defence of the Constitutions of Government of the United States of America*, 1787.
 
 ---
 
