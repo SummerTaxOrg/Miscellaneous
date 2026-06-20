@@ -56,8 +56,11 @@ ONEPAGER/
   founder quotations), and a later pass added a "Who the relief reaches" paragraph and an
   "Answering the likely objections" block on revenue, windfall, and fraud. Rather than trim
   this back to a single page, the piece is intentionally structured as a **tight two-page
-  brief**: page one carries the ask, the problem, the developer double standard, and the cost;
-  page two carries the beneficiaries, the objection rebuttals, and the principle. It remains
-  written to be skimmed by headers in well under two minutes.
+  brief, ordered so the argument lands before the detail**: page one runs the persuasive arc
+  uninterrupted (ask, problem, developer double standard, the principle with the founding
+  quotations, and the closing choice) so the eloquence is not buried under facts; page two is
+  a clearly-marked "Detail Behind the Ask" carrying the cost figure, the beneficiaries, the
+  exemption mechanism, and the objection rebuttals for the staffer who wants the backup. It
+  remains written to be skimmed by headers in well under two minutes.
 - **Advocacy, not advice.** Like its companions, it argues the cause at its most persuasive;
   the memo remains the candid assessment of the legal odds.

@@ -1,9 +1,11 @@
 <!--
-  LEGISLATIVE LEAVE-BEHIND. A tight two-page brief: page one states the ask, the
-  problem, the developer double standard, and the cost; page two reaches the
-  beneficiaries, answers the predictable objections, and closes on principle.
-  Bill number, coalition name, sponsor, and contact are PLACEHOLDERS in [brackets];
-  replace and verify before distribution. The cost figure is anchored on a single
+  LEGISLATIVE LEAVE-BEHIND. A tight two-page brief, ordered so the argument lands before
+  the detail: page one runs the persuasive arc uninterrupted (the ask, the problem, the
+  developer double standard, the principle with the founding quotations, and the closing
+  choice); page two is clearly-marked supporting detail (what the tax costs, whom the relief
+  reaches, how the exemption operates, and the objection rebuttals) for the staffer who
+  wants the backup. Bill number, coalition name, sponsor, and contact are PLACEHOLDERS in
+  [brackets]; replace and verify before distribution. The cost figure is anchored on a single
   reputable source, the NAHB 2024 Cost of Constructing a Home survey (full sourcing
   and the materials-share derivation in ONEPAGER/research/03-cost-figures.md);
   confirm against the latest data before citing. Advocacy material, not legal
@@ -37,6 +39,26 @@ In 2026 this Legislature exempted from this very tax an estimated thirty-five mi
 
 > The developer's materials now arrive untaxed while the family's do not, a distinction that rewards the enterprise built to sell and penalizes the household built to stay.
 
+**THE PRINCIPLE AT STAKE**
+
+Representation establishes that the people may be taxed. It has never established that everything they own may be taxed. The right of property is the boundary the taxing power must respect, and the materials of the home a family builds for itself fall on the protected side of it. The Commonwealth's founders drew that line plainly:
+
+> *"Among the natural rights of the Colonists are these: First, a right to life. Secondly, to liberty. Thirdly, to property; together with the right to support and defend them in the best manner they can."*
+> Samuel Adams, *The Rights of the Colonists*, Boston, 1772.
+
+> *"The moment the idea is admitted into society that property is not as sacred as the laws of God, and that there is not a force of law and public justice to protect it, anarchy and tyranny commence."*
+> John Adams, *A Defence of the Constitutions of Government of the United States of America*, 1787.
+
+**THE CHOICE BEFORE THIS LEGISLATURE**
+
+No concern weighs on Massachusetts residents more heavily than the cost of a place to live, and no liberty is older here than the right to keep and protect what one has built. This Act serves both. It asks no grand gesture, only the relief already granted to developers, extended at last to the family raising its own roof. To pass it is to set the Commonwealth's tax back within the boundary its founders drew around a citizen's property; to leave it is to keep taxing the family for sheltering itself while the developer who builds to sell goes free.
+
+---
+
+**THE DETAIL BEHIND THE ASK**
+
+*The argument above stands on four supports: what the tax costs, whom the relief reaches, how the exemption would operate, and what answers the objections it will draw.*
+
 **WHAT THE TAX COSTS A FAMILY**
 
 By the National Association of Home Builders' 2024 *Cost of Constructing a Home* survey, the average new single-family home costs about **$428,000** to build. Materials make up roughly 40 percent of a home's construction cost, so the 6.25 percent sales and use tax falls on some **$170,000** of materials, about **$10,700** a home, before a single light is switched on. In Greater Boston, where building costs run well above the national average, the family's bill is materially higher, and the contractor markup described above lifts it further.
@@ -54,20 +76,6 @@ The Act proposed above adds a narrow owner-occupant exemption to G.L. c. 64H, §
 - *On revenue.* The Legislature has already accepted roughly thirty-five million dollars a year in forgone tax to spare multifamily developers' materials. Owner-occupied new construction and rehabilitation is a smaller and more sharply bounded universe than all qualifying development, so the fiscal exposure here is smaller than the concession already made, not larger. A portion of it is recovered besides, because the same housing the Commonwealth subsidizes through other programs becomes cheaper to build when its materials are no longer taxed.
 - *On a windfall to the well-off.* The exemption is confined to a natural person building or substantially rehabilitating the home in which that person will live. It excludes second homes, investment property, developers, and any construction for resale, so the luxury builder and the speculator receive nothing from it. The relief flows to the resident raising or repairing a primary residence.
 - *On fraud and administrability.* The relief runs through the exemption-certificate system the Commonwealth already operates for governmental and charitable projects, and it carries the same anti-abuse structure the tax code uses elsewhere, including recapture of the tax if the property is sold or converted from owner-occupancy within a defined period. It asks the Department to police a boundary it already polices, not to build a new one.
-
-**THE PRINCIPLE AT STAKE**
-
-Representation establishes that the people may be taxed. It has never established that everything they own may be taxed. The right of property is the boundary the taxing power must respect, and the materials of the home a family builds for itself fall on the protected side of it. The Commonwealth's founders drew that line plainly:
-
-> *"Among the natural rights of the Colonists are these: First, a right to life. Secondly, to liberty. Thirdly, to property; together with the right to support and defend them in the best manner they can."*
-> Samuel Adams, *The Rights of the Colonists*, Boston, 1772.
-
-> *"The moment the idea is admitted into society that property is not as sacred as the laws of God, and that there is not a force of law and public justice to protect it, anarchy and tyranny commence."*
-> John Adams, *A Defence of the Constitutions of Government of the United States of America*, 1787.
-
-**THE CHOICE BEFORE THIS LEGISLATURE**
-
-No concern weighs on Massachusetts residents more heavily than the cost of a place to live, and no liberty is older here than the right to keep and protect what one has built. This Act serves both. It asks no grand gesture, only the relief already granted to developers, extended at last to the family raising its own roof. To pass it is to set the Commonwealth's tax back within the boundary its founders drew around a citizen's property; to leave it is to keep taxing the family for sheltering itself while the developer who builds to sell goes free.
 
 ---
 
