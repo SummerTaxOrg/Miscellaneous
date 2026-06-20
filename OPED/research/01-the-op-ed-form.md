@@ -19,25 +19,25 @@ target, the cause being a Massachusetts one).
 
 The piece follows the standard, durable op-ed arc:
 
-1. **The hook (firsthand, concrete).** "This spring I poured the foundation of the house my
-   family will live in." A specific human image, not a thesis statement.
-2. **The grievance, made tangible.** The 6.25% on lumber, nails, windows, wire — "shelter
-   itself, taken apart and taxed piece by piece."
-3. **The fair-minded concession.** "I am not asking to dodge my share." Conceding the
-   obvious counterargument early earns the reader's trust — the same move the brief makes,
-   and essential to not sounding like a tax crank.
-4. **The principle (the elevated beat).** The consent-to-taxation and property guarantees
-   of the 1780 Constitution; John Adams named once, lightly, for authority and resonance.
+1. **The hook (firsthand, concrete).** "Last year I became my own general contractor…"
+   A specific human situation, not a thesis statement.
+2. **The grievance, made tangible.** The 6.25% on "framing lumber or a window or a spool of
+   wire," and the out-of-state use-tax wrinkle; the cost stated in plain dollars.
+3. **The fair-minded concession.** "I am not someone who thinks taxation is theft." Conceding
+   the obvious counterargument early earns the reader's trust and is essential to not
+   sounding like a tax crank.
+4. **The principle (the elevated beat).** The consent-to-taxation and property guarantees of
+   the 1780 Constitution; John Adams named once, lightly, for authority and resonance.
 5. **The unfairness sharpener (the news peg).** The 2026 exemption proves the state *can*
-   exempt construction materials and simply chose not to for the family home — "a line of
-   convenience," not principle.
+   spare construction materials and simply chose not to for the family home ("though both
+   come off the same truck").
 6. **The corroborating witness.** The contractors, who pay the same tax under the
-   contractor-as-consumer rule — widening the "I" to a "we."
-7. **The reframe of the obvious objection ("it's only a small tax").** Smallness is where
-   the principle hides — a Thoreauvian note in plain clothes.
-8. **The call to action + ringing close.** Courts and/or the Legislature should fix it;
-   ends on a quotable line: "A home is the last place a free people should be taxed without
-   their leave. We wrote that down once. We ought to mean it."
+   contractor-as-consumer rule, widening the "I" to a "we."
+7. **The reframe of the obvious objection ("it's only a small tax").** The smallest charges
+   are the ones nobody questions, which is why a few people should.
+8. **The call to action + close.** Courts and/or the Legislature should fix it; ends on an
+   idiosyncratic personal line rather than a slogan: "I did not go looking for this argument.
+   I picked up a nail gun, and it came with the lumber."
 
 ## III. Headline and dek
 
@@ -48,11 +48,31 @@ The piece follows the standard, durable op-ed arc:
 
 ## IV. Register notes
 
-Op-ed prose is shorter-sentenced, plainer, and more conversational than the brief or the
-speech. The founding-era cadence is deliberately *rationed* to the opening principle
-paragraph and the final lines; everywhere else the voice is a neighbor talking, not an
-orator declaiming. This keeps the patriotic frame from tipping into bombast on a newspaper
-page — the cardinal risk of this kind of piece.
+Op-ed prose is plainer and more conversational than the brief or the speech, but "plain"
+does not mean clipped. The founding-era cadence is deliberately *rationed* to the Adams
+paragraph; everywhere else the voice is a neighbor talking, not an orator declaiming. This
+keeps the patriotic frame from tipping into bombast on a newspaper page, the cardinal risk
+of this kind of piece.
+
+### IV.a Reading like a person, not a generator (revision pass)
+
+A first draft of this piece was revised because it carried the tells of machine-written
+prose. The fixes, worth preserving as a checklist for any future edit:
+
+- **Vary sentence length.** The draft leaned on a barrage of short, equal-length sentences
+  for emphasis. The revision mixes long, winding sentences with the occasional short one, so
+  rhythm comes from contrast rather than from uniform punchiness.
+- **Spend em-dashes sparingly.** The draft used the em-dash as an all-purpose connector,
+  several times a paragraph. The revision removes nearly all of them in favor of commas,
+  periods, and the occasional parenthetical, which reads less templated.
+- **Don't reuse the project's signature images.** The op-ed must not echo the wording of its
+  siblings (see `research/02`). Phrases such as "shelter itself, taken apart and taxed piece
+  by piece," "the bones of a house," "the small coin of a thousand receipts," and the
+  "a home is the last fortress / last place…" maxim were all removed, because repetition
+  across documents is itself a tell and flattens each piece's individuality.
+- **Let one human detail do what a slogan was doing.** The slogan ending was replaced with a
+  specific, slightly wry personal line ("I picked up a nail gun, and it came with the
+  lumber"), which sounds like an author rather than an aphorism generator.
 
 ---
 

@@ -28,26 +28,29 @@ could use.
 Every claim in the op-ed traces to the underlying research, so the piece is persuasive
 without overstating:
 
-- **"I am one person… not building to sell"** ← the memo's owner-builder profile and the
-  clean-standing posture (memo Parts 1.B, 3.B).
-- **"6.25 percent… at the register or owed as use tax"** ← the tax mechanics (memo Part 1.B;
+- **"I am a person trying to get my kids under a roof… nothing to flip"** ← the memo's
+  owner-builder profile and the clean-standing posture (memo Parts 1.B, 3.B).
+- **"6.25 percent… on the receipt… owed as a 'use tax'"** ← the tax mechanics (memo Part 1.B;
   G.L. c. 64H/64I).
-- **"the structural bones of a house — shelter itself"** ← the property-right-core framing
-  shared with the speech and brief (memo Part 4.B.1).
-- **"acquiring, possessing, and protecting property" / "without the consent of the people"**
-  ← direct from Decl. of Rights arts. 1 and 23 (quoted, lightly, for resonance).
-- **"drafted in its essential parts by John Adams"** ← the historical research behind the
-  speech and brief (SPEECH/research/01; AMICUS/research/03).
-- **"a new exemption — capped at roughly $35 million a year… multifamily"** ← memo Part 1.D;
-  used here, as in the brief, to show the line against the family home is arbitrary.
-- **"a builder is the 'consumer' of the materials he installs"** ← the contractor-as-consumer
-  rule (Directive 02-16; LR 80-44; 830 CMR 64H.1.1), the same fact that grounds the amici's
-  standing (AMICUS/research/02).
-- **"the most forgettable line on a receipt is precisely where a principle gets quietly sold
-  off"** ← the Thoreauvian theme from the speech ("the small coin of a thousand receipts"),
-  translated into op-ed plainspeak.
-- **"I've filed to have a court decide…"** ← the c. 231A declaratory-judgment vehicle (memo
-  Part 2). *Flagged as a placeholder: true only if the actual author has in fact filed.*
+- **"framing lumber or a window or a spool of wire"** ← the property-right-core framing
+  shared with the speech and brief (memo Part 4.B.1), but deliberately reworded with fresh,
+  specific nouns rather than the siblings' recurring "lumber, nail, beam, glass" image.
+- **"acquire and protect property" / "without the consent of the people, or their
+  representatives"** ← Decl. of Rights arts. 1 and 23 (the consent clause quoted once,
+  lightly, for resonance).
+- **"When John Adams sat down in 1780 to draft the Massachusetts constitution"** ← the
+  historical research behind the speech and brief (SPEECH/research/01; AMICUS/research/03).
+- **"an exemption, reportedly worth something like thirty-five million dollars annually…
+  multifamily"** ← memo Part 1.D; used here, as in the brief, to show the line against the
+  family home is arbitrary ("both come off the same truck").
+- **"the state's own rules treat the builder as the 'consumer' of whatever he installs"** ←
+  the contractor-as-consumer rule (Directive 02-16; LR 80-44; 830 CMR 64H.1.1), the same
+  fact that grounds the amici's standing (AMICUS/research/02).
+- **"the smallest charges tend to be the ones nobody bothers to question"** ← the Thoreauvian
+  theme from the speech ("the small coin of a thousand receipts"), but rewritten in the
+  op-ed's own words rather than reusing the speech's image.
+- **"I have asked a court to weigh whether…"** ← the c. 231A declaratory-judgment vehicle
+  (memo Part 2). *Flagged as a placeholder: true only if the actual author has in fact filed.*
 
 ## III. Honest limits, kept in view
 
