@@ -25,13 +25,13 @@
 
 **THE PROBLEM**
 
-- The Commonwealth imposes its full 6.25 percent sales tax on the lumber, windows, wiring, and fixtures a family must buy to build the house it means to live in, and the same rate as a use tax on materials bought out of state.
-- The burden settles most heavily on the residents who undertake the work themselves, who pay it directly and in full, atop the separate costs of their land, their labor, and their financing.
-- Where a family hires the work out, the Department's contractor-as-consumer rule makes the builder the taxable consumer of every material installed, so the tax is paid and folded into the price. It then compounds, because the builder prices materials at his cost plus a margin and the tax is part of that cost: the family pays a markup on the tax itself, so the 6.25 percent levy reaches the homeowner as roughly 7.5 percent at a 20 percent margin, and more at a wider one.
+- The Commonwealth imposes its full 6.25 percent sales tax on the lumber, windows, wiring, and fixtures a family must buy to build the house it means to live in, and the same rate as a use tax on materials brought into the Commonwealth from out of state.
+- The owner-builder feels the tax most plainly, because he pays it himself, in his own name, on every receipt, atop the separate costs of land, labor, and financing. He is for that reason also the one most likely to recognize the charge and to question it.
+- The family that hires the work out pays still more, though it never sees the line. Under the Department's contractor-as-consumer rule the builder is the taxable consumer of every material installed, and he prices those materials at his cost plus a margin. Because the tax is part of that cost, the family is charged a markup on the tax itself: the 6.25 percent levy reaches the homeowner as roughly 7.5 percent at a 20 percent margin, and more at a wider one, buried in a price the household has no reason to connect to a tax at all.
 
 **A CONTRADICTION THE LEGISLATURE HAS ALREADY HALF-RESOLVED**
 
-In 2026 this Legislature exempted from this very tax an estimated thirty-five million dollars a year in building materials for qualifying multifamily developments. The lumber, the wiring, and the delivery trucks are identical. The Commonwealth has thus already conceded that these materials may be spared and that its budget can bear it; the only judgment it has withheld is that a family building the home it will live in deserves what the developer building to sell already receives.
+In 2026 this Legislature exempted from this very tax an estimated thirty-five million dollars a year in building materials for qualifying multifamily developments. The lumber, the wiring, and the delivery trucks are identical. The Commonwealth has thus already conceded that these materials may be spared and that its budget can bear it; the only judgment it has withheld is that a family building the home it will live in deserves what the developer building to sell already receives. Nor is the line hard to administer: the Commonwealth already separates taxable from exempt construction materials as a matter of routine, through the exemption certificates it issues for governmental and charitable building projects, so sparing the owner-occupant asks nothing new of its tax machinery.
 
 > The developer's materials now arrive untaxed while the family's do not, a distinction that rewards the enterprise built to sell and penalizes the household built to stay.
 
@@ -41,7 +41,7 @@ A new single-family home in Suffolk County carries among the highest constructio
 
 **THE REMEDY**
 
-The Act proposed above adds a narrow owner-occupant exemption to G.L. c. 64H, § 6, modeled on exemptions the section already contains. It reaches only natural persons building or rehabilitating a primary residence, and it excludes developers, speculators, and any construction for resale. Its cost is modest beside the multifamily exemption already accepted, and every dollar of it lowers the price of building and restoring the homes the Commonwealth says it wants built.
+The Act proposed above adds a narrow owner-occupant exemption to G.L. c. 64H, § 6, modeled on the exemptions the section already contains. It would spare the materials of a qualifying primary residence whether the homeowner buys them directly or a contractor buys them as consumer for that home, administered through an exemption certificate exactly as the Commonwealth already does for governmental and charitable building projects. Its reach is confined by design to natural persons building or rehabilitating a primary residence, and it excludes developers, speculators, and any construction for resale. Its cost is modest beside the multifamily exemption already accepted, and every dollar of it lowers the price of building and restoring the homes the Commonwealth says it wants built.
 
 **THE PRINCIPLE AT STAKE**
 
