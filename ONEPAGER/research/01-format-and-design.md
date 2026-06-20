@@ -21,15 +21,17 @@ is built to, drawn from advocacy and government-relations guidance on one-pagers
 TITLE BANNER             a short, arresting name ("TAXED AT THE THRESHOLD")
 TAGLINE                  the whole argument in measured sentences
 THE ASK  (boxed)         the specific legislative request + bill cite
-THE PROBLEM              4 bullets, each a full weighted sentence: what the tax is and whom it hits
+THE PROBLEM              3 weighted bullets: the tax, whom it hits, and how the
+                         contractor's markup compounds it (6.25% × (1 + margin))
 A CONTRADICTION          the strongest point (the 2026 exemption), with a pull-quote
    ...ALREADY HALF-RESOLVED
-WHAT THE TAX COSTS       one illustrative number (flagged)
-   A FAMILY
-THE REMEDY               what the bill does; narrow scope; fiscal framing
-WHY THIS SESSION         the timeliness / political hook
+WHAT THE TAX COSTS       the researched Suffolk County estimate (see research/03)
+   A FAMILY IN SUFFOLK CO.
+THE REMEDY               what the Act does; narrow scope; fiscal framing
 THE PRINCIPLE AT STAKE   the representation-answering framing + two property quotes
                          (S. Adams 1772; J. Adams 1787). See research/02 § I.a.
+THE CHOICE BEFORE        the conclusion: ties the founding liberties to the vote, and
+   THIS LEGISLATURE      folds in the housing-cost urgency
 FOOTER                   endorsers, sponsor, contact, date, caveat line
 ```
 

@@ -39,15 +39,19 @@ ONEPAGER/
 ├── README.md                             ← this guide
 └── research/
     ├── 01-format-and-design.md           ← one-pager conventions, layout, print/presentation notes, sources
-    └── 02-content-and-tone.md            ← the "fierce but credible" register, the ask, provenance of each claim
+    ├── 02-content-and-tone.md            ← the "fierce but credible" register, the ask, provenance of each claim
+    └── 03-cost-figures.md                ← the Suffolk County cost estimate: inputs, arithmetic, sources, caveats
 ```
 
 ## Caveats
 
-- **Placeholders to fill and verify.** Bill number, sponsor, coalition name, contact line,
-  and the dollar figures are bracketed. The sample calculation (~$150k materials → ~$9,375
-  tax) is **illustrative**; substitute real numbers before any distribution.
-- **One physical page.** The content is sized to print on a single page; if a logo/letterhead
-  is added, trim the "Why Now" or "What It Costs" block to preserve the one-page limit.
+- **Placeholders to fill and verify.** Bill number, sponsor, coalition name, and contact line
+  are bracketed. The dollar figures are now **research-based estimates** for a Suffolk County
+  single-family home (NAHB 2024 plus 2025 Massachusetts builder data; see
+  [`research/03`](research/03-cost-figures.md)); confirm against the latest data before citing.
+- **A dense single page.** After the review additions (the compounding-markup point, the
+  Suffolk County cost block, and the closing "Choice" section), the text runs to roughly 900
+  words. It still fits one page in a compact layout; set the two block quotes as a smaller
+  sidebar, and if a logo/letterhead crowds the page, tighten the "What the Tax Costs" block first.
 - **Advocacy, not advice.** Like its companions, it argues the cause at its most persuasive;
   the memo remains the candid assessment of the legal odds.
