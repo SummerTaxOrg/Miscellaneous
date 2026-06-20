@@ -50,13 +50,14 @@ ONEPAGER/
   *Cost of Constructing a Home*, ~$428k build cost) with a conservative ~40% materials share
   as the one derived input; see [`research/03`](research/03-cost-figures.md). Confirm against
   the latest survey before citing, and label the materials share as derived wherever quoted.
-- **Length has outgrown one page.** Successive review rounds added substance (the
-  compounding-markup explanation, the visibility reframe, the administrability rebuttal, the
-  exemption-mechanism detail, the cost figure, and the closing "Choice" section plus two
-  founder quotations). The text now runs ~1,000 words, roughly 1.25–1.5 pages at normal
-  formatting. Two honest choices before distribution: (a) **hold one page** by trimming —
-  drop one founder quotation, fold the cost block into a single sentence, and tighten the
-  problem bullets; or (b) **let it become a tight two-page brief**, which the added content
-  arguably now warrants. Flagging rather than silently cutting requested material.
+- **Now a tight two-page brief (by decision).** Successive review rounds added substance
+  (the compounding-markup explanation, the visibility reframe, the administrability rebuttal,
+  the exemption-mechanism detail, the cost figure, and the closing "Choice" section plus two
+  founder quotations), and a later pass added a "Who the relief reaches" paragraph and an
+  "Answering the likely objections" block on revenue, windfall, and fraud. Rather than trim
+  this back to a single page, the piece is intentionally structured as a **tight two-page
+  brief**: page one carries the ask, the problem, the developer double standard, and the cost;
+  page two carries the beneficiaries, the objection rebuttals, and the principle. It remains
+  written to be skimmed by headers in well under two minutes.
 - **Advocacy, not advice.** Like its companions, it argues the cause at its most persuasive;
   the memo remains the candid assessment of the legal odds.
